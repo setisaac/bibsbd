@@ -1,5 +1,5 @@
 ﻿-- Database: bibs
-
+--
 -- DROP DATABASE bibs;
 
 CREATE DATABASE bibs
